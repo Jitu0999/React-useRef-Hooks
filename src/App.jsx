@@ -7,7 +7,7 @@ const App = () => {
   const inputRef = useRef(null);
 
   return (
-    <div>
+    <div className="useref">
       <input ref={inputRef} type="text"/>
       <button onClick={()=>{setData([...data,inputRef.current.value])}}>Submit</button>
       {data.map((item,index)=>{return <h2 key={index}>{item}</h2>})}
