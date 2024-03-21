@@ -1,0 +1,21 @@
+.useref {
+    width: 450px;
+    min-height: 560px;
+    border-radius: 20px;
+    background: #fff;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    padding: 0px 44px;
+    padding-bottom: 30px;
+}
+
+.ur-header {
+    margin-top: 84px;
+    color: blueviolet;
+    font-size: 36px;
+    font-weight: 600px;
+    line-height: 43px;
+    text-align: center;
+}
