@@ -1,11 +1,10 @@
-import { useState } from "react";
-import { useRef } from "react"
+import UseRef from "./Components/UseRef"
 
 const App = () => {
 
   return (
     <div>
-      <Ur/>
+      <UseRef/>
     </div>
   )
 }
