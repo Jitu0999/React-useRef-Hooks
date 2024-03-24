@@ -42,5 +42,6 @@
     background: #ff6739;
     width: 120px;
     height: 60px;
-    display: ;
+    display: flex;
+    justify-content: ;
 }
