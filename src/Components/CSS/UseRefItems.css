@@ -1,6 +1,9 @@
-.us-items {
+.ur-items {
     display: flex;
     justify-content: space-between;
     padding: 16px 0px;
     align-items: center;
+}
+.ur-items-container {
+    
 }
