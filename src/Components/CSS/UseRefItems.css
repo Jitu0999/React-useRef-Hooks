@@ -5,5 +5,5 @@
     align-items: center;
 }
 .ur-items-container {
-    
+    display: flex;
 }
