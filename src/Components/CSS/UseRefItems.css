@@ -7,3 +7,8 @@
 .ur-items-container {
     display: flex;
 }
+
+.ur-items-text {
+    padding-left: 16px;
+    
+}
